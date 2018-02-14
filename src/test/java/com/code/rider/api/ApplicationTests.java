@@ -1,4 +1,4 @@
-package com.code.rider.api.code.rider.api;
+package com.code.rider.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
